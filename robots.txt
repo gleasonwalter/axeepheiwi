@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheedahp.tripofalltrips.com/sitemap.xml
